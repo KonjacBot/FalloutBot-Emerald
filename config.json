@@ -1,9 +1,8 @@
 {
-  "ip": "jp.mcfallout.net",                 
-  "port": "25565",                          
-  "username": "留白",
-  "password": "留白",
-  "auth": "microsoft",
+  "address": "mcfallout.net",
+  "port": "25565",
+  "user": "留白",
   "language": "zh-tw",
-  "whitelist": ["白名單ID"]
+  "whitelist": ["白名單ID"],
+  "authserver": "http://127.0.0.1:37565"
 }
