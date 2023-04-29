@@ -8,6 +8,7 @@
     "mineflayer": "^4.8.1",
     "silly-datetime": "^0.1.2"
   },
+  "main": "McHateBot.js",
   "bin": "McHateBot.js",
   "pkg": {
     "assets": [
