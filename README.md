@@ -17,7 +17,7 @@
 ```
 ## 授權
 本著作採用創用CC[姓名標示-非商業性-相同方式分享 4.0 國際 (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh_TW)授權條款授權<br>
-此bot是以[McSngbot](https://github.com/SiongSng/McSngbot)加以製作而成
+此bot是以[McHateBot_emerald](https://github.com/Forever-Hate/McHateBot_emerald)[McSngbot](https://github.com/SiongSng/McSngbot)加以製作而成
 
 **如不會使用，歡迎直接在DC群問或私訊我DC:I-love-minecraft#2437**<br>
 **如有想新增的功能 or Bug，歡迎使用[issue](https://github.com/Forever-Hate/McHateBot_emerald/issues)**<br>
