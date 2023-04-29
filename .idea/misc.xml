@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="JavaScriptSettings">
-    <option name="languageLevel" value="FLOW" />
-  </component>
-  <component name="PWA">
-    <option name="wasEnabledAtLeastOnce" value="true" />
-  </component>
-  <component name="ProjectRootManager">
-    <output url="file://$PROJECT_DIR$/out" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
 </project>
